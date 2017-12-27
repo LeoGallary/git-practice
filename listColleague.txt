@@ -1,5 +1,9 @@
 tt
 
 show
+<<<<<<< HEAD
 
 new branch feature on master
+=======
+what happened
+>>>>>>> feature1
