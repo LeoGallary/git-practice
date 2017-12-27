@@ -9,3 +9,5 @@ new branch feature on maste
 
 what happened
 feature2·ÖÖ§
+
+git diff
