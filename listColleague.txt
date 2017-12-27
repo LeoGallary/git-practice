@@ -1,9 +1,10 @@
 tt
 
-show
-<<<<<<< HEAD
 
-new branch feature on master
-=======
+show
+
+
+
+new branch feature on maste
+
 what happened
->>>>>>> feature1
