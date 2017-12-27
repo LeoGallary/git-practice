@@ -1,2 +1,6 @@
 1 amend
+
 2 amend
+
+
+1 rebase
